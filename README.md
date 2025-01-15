@@ -3,7 +3,7 @@
 
 ## Project Overview:
 
-Implementations of the Viterbi Algorithm and mutliple basic pathfinding algorithms.
+Implementations of the Viterbi Algorithm and multiple basic pathfinding algorithms.
 
 **Includes:**
 
