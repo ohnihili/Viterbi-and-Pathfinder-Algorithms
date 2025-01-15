@@ -1,2 +1,19 @@
-# Algorithm-Designs
-Some examples of basic and intermediate algorithm design implementations that I have done in my second year of University.
+# Viterbi and Pathfinder Algorithms
+
+
+## Project Overview:
+
+Implementations of the Viterbi Algorithm and mutliple basic pathfinding algorithms.
+
+**Includes:**
+
+Viterbi Algorithm
+
+Breadth First Search
+
+Uniform Cost Search
+
+A-Star Search
+
+---
+
